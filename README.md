@@ -34,8 +34,16 @@ a real-world style system.
 - Object-Oriented Programming
 
 ---
+# 2 Student Digital Profile Workspace Manager
 
-### 2️ Payroll Management System (Python)
+A console-based Java OOP project that allows a student to add, store, and view
+academic work, coding activities, communications, and learning topics.
+
+The project uses Java file handling to persist data and demonstrates core
+Object-Oriented Programming concepts.
+
+
+### 3 Payroll Management System (Python)
 
 A GUI-based Payroll Management System developed using Python, applying OOP concepts
 to manage employee salary-related operations.
